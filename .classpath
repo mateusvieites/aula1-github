@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/wicket-auth-roles-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-bean-validation-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-cdi-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-core-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-extensions-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-guice-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-http2-jetty-0.11.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-http2-core-0.11.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-devutils-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-http2-servlet4-0.11.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-http2-undertow-0.11.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-ioc-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-jmx-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-http2-tomcat-0.11.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-js-tests-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-metrics-0.12.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-native-websocket-core-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-native-websocket-javax-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-objectsizeof-agent-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-request-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-spring-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-user-guide-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-util-9.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/wicket-velocity-9.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
